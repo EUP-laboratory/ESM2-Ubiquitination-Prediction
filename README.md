@@ -27,9 +27,11 @@ In this project, we have constructed four deep learning models for the ubiquitin
 
 ## Reference
 
-
 ## Citation
 
+If our work has contributed to your research, we would greatly appreciate it if you could cite our work as follows.
+
+Liu J, Luo Z, Wang R, Li X, Sun Y, et al. (2025) EUP: Enhanced cross-species prediction of ubiquitination sites via a conditional variational autoencoder network based on ESM2. PLOS Computational Biology 21(7): e1013268. https://doi.org/10.1371/journal.pcbi.1013268
 
 ## Acknowledgments
 
